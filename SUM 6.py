@@ -1,0 +1,9 @@
+intl=4
+intb=6
+print("sum=", l+b)
+print("diff=",l-b)
+print("product=", l*b)
+print("divide=", l/b)
+print("divide pro =", l//b)
+print("modulus=", l%b)
+print("exponent=", l**b)
